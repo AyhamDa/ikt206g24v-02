@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringLibrary", "StringLibr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShowCase", "ShowCase\ShowCase.csproj", "{FBCA5100-0245-486E-BF17-9B592D26B45C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringLibraryTest", "StringLibraryTest\StringLibraryTest.csproj", "{163D5D68-F425-43F3-B4F3-B80C26F2EA18}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{FBCA5100-0245-486E-BF17-9B592D26B45C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FBCA5100-0245-486E-BF17-9B592D26B45C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FBCA5100-0245-486E-BF17-9B592D26B45C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{163D5D68-F425-43F3-B4F3-B80C26F2EA18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{163D5D68-F425-43F3-B4F3-B80C26F2EA18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{163D5D68-F425-43F3-B4F3-B80C26F2EA18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{163D5D68-F425-43F3-B4F3-B80C26F2EA18}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
