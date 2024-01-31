@@ -18,7 +18,9 @@ public class UnitTest1
                    string.Format("Expected for '{0}': true; Actual: {1}",
                                  word, result));
         }
-    }
+    } 
+    // komment
+    
 
     [TestMethod]
     public void TestDoesNotStartWithUpper()
