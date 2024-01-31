@@ -27,6 +27,5 @@ jobs:
     - name: Run Tests
       run: dotnet test ClassLibraryProjects/ClassLibraryProjects.sln --no-build
 
-    - name: Test
-      run: dotnet test --no-build --verbosity normal
-
+    - name: Run Tests
+      run: dotnet test ClassLibraryProjects/ClassLibraryProjects.sln --no-build
